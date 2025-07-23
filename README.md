@@ -1,6 +1,6 @@
 ## Hi! I'm Isabella Santos 🖐️ ![Brasil](https://img.shields.io/badge/País-Brasil-green?style=flat&logo=appveyor)
 
-- 🎯 Developer in progress
+- 🎯 Developer backend in progress
 - 💻 Learning Java and Object-Oriented Programming (OOP)
 - 🧑‍🎓 Final year student in Technical Systems Development course
 - 🚀 Seeking opportunities to grow and contribute
