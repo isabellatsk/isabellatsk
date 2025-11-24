@@ -13,7 +13,7 @@
 -->
 ## 
 ### Technologies I use
-[![My Skills](https://skillicons.dev/icons?i=js,react,next,html,css,tailwind,mysql,vscode,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,react,next,mysql,prisma,tailwind,html,css,figma)](https://skillicons.dev)
      
 <!---### Studying in this moment:
 [![My Skills](https://skillicons.dev/icons?i=git,java,nodejs,dotnet)](https://skillicons.dev)
