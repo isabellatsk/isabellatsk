@@ -12,7 +12,7 @@
 ![isabellatsk GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=isabellatsk&layout=compact&theme=synthwave)
 -->
 ### Technologies I use
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,react,next,mysql,postgres,prisma,tailwind,html,css,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,react,next,postgres,prisma,mysql,postman,tailwind,azure,figma,html,css)](https://skillicons.dev)
      
 <!---### Studying in this moment:
 [![My Skills](https://skillicons.dev/icons?i=git,java,nodejs,dotnet)](https://skillicons.dev)
