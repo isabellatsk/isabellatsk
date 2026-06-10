@@ -1,4 +1,4 @@
-## Hi! I'm Isabella Santos  ![Brasil](https://img.shields.io/badge/País-Brasil-green?style=flat&logo=appveyor) 
+## Hi! ![Brasil](https://img.shields.io/badge/País-Brasil-green?style=flat&logo=appveyor) 
 <!--🎯 Developer fullstack in progress<br>
 🧑‍🎓 Final year student in Technical Systems Development course<br>
 💻 Currently working with Nextjs<br>-->
@@ -11,7 +11,6 @@
 ![isabellatsk GitHub stats](https://github-readme-stats.vercel.app/api?username=isabellatsk&show_icons=true&theme=synthwave)
 ![isabellatsk GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=isabellatsk&layout=compact&theme=synthwave)
 -->
-## 
 ### Technologies I use
 [![My Skills](https://skillicons.dev/icons?i=js,typescript,react,next,mysql,postgres,prisma,tailwind,html,css,figma)](https://skillicons.dev)
      
