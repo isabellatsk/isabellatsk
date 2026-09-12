@@ -1,4 +1,5 @@
-## Hi! ![Brasil](https://img.shields.io/badge/País-Brasil-green?style=flat&logo=appveyor) 
+## ![Brasil](https://img.shields.io/badge/País-Brasil-green?style=flat&logo=appveyor)
+ ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+Guys!+I'm+Isaa+:%29;Welcome+to+this+part+of+my+world...;Nice+to+meet+you!&color=F7A8C4) 
 <!--🎯 Developer fullstack in progress<br>
 🧑‍🎓 Final year student in Technical Systems Development course<br>
 💻 Currently working with Nextjs<br>-->
@@ -11,9 +12,10 @@
 ![isabellatsk GitHub stats](https://github-readme-stats.vercel.app/api?username=isabellatsk&show_icons=true&theme=synthwave)
 ![isabellatsk GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=isabellatsk&layout=compact&theme=synthwave)
 -->
-### Technologies I use
+### Stacks
 [![My Skills](https://skillicons.dev/icons?i=js,typescript,react,next,postgres,prisma,mysql,postman,tailwind,azure,figma,html,css)](https://skillicons.dev)
      
 <!---### Studying in this moment:
 [![My Skills](https://skillicons.dev/icons?i=git,java,nodejs,dotnet)](https://skillicons.dev)
 --->
+
